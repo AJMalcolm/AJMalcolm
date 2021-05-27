@@ -15,6 +15,7 @@ I also know some:
 ![c badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
 ![csharp badge](https://img.shields.io/badge/-csharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=fff)
 ![latex badge](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=fff)
+![selenium badge](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=cucumber&logoColor=fff)
 
 <!--
 **AJMalcolm/AJMalcolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
