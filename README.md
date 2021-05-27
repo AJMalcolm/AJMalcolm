@@ -17,6 +17,10 @@ I also know some:
 ![latex badge](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=fff)
 ![selenium badge](https://img.shields.io/badge/-Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=fff)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajmalcolm&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **AJMalcolm/AJMalcolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
