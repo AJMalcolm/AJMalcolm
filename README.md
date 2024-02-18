@@ -1,6 +1,6 @@
 ### About Me
 
-Since graduating from the University of Exeter in 2019 with a bachelor's degree in Electronic Engineering I have worked as a high school teacher and am currently training as a Java SDET consultant with Sparta Global. Prior to this I did a couple of years of freelance coding work in C# for the NHS constructing databases and spent many years working in the hospitality sector. I also hold Bronze, Silver and Gold Duke of Edinburgh Awards from my pre-University years.
+Since graduating from the University of Exeter in 2019 with a bachelor's degree in Electronic Engineering I have worked as a high school teacher. After this I trained for 2 years as a Java SDET (Software Development Engineer in Test) and went on to work as an automation tester for an Insurance commpany. Prior to this I did a couple of years of freelance coding work in C# for the NHS constructing databases and spent many years working in the hospitality sector. I also hold Bronze, Silver and Gold Duke of Edinburgh Awards from my pre-University years.
 
 ### Skills
 
