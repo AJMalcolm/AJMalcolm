@@ -16,6 +16,7 @@ I also know some:
 ![csharp badge](https://img.shields.io/badge/-csharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=fff)
 ![latex badge](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=fff)
 ![selenium badge](https://img.shields.io/badge/-Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=fff)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajmalcolm&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
